@@ -1,0 +1,1 @@
+html:before{display:none;content:"xs"}@media screen and (min-width:47.9375em){html:before{content:"sm"}}@media screen and (min-width:75em){html:before{content:"md"}}@media screen and (min-width:100em){html:before{content:"lg"}}
